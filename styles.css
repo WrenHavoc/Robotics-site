@@ -159,6 +159,10 @@ html, body {
   text-indent: 50px;
 }
 
+.content a {
+  color: #cba6f7;
+}
+
 .theme-button {
   position: absolute;
   margin: 0;
@@ -172,6 +176,12 @@ html, body {
   height: 30px;
   background: url(./icons/half-moon.svg);
   background-size:cover;
+}
+
+footer {
+  background-color: #11111b;
+  font-family:DejaVu;
+  padding:30px;
 }
 
 html:has(#theme-toggle:checked) {
@@ -212,5 +222,9 @@ body:has(#theme-toggle:checked) {
   .theme-button-svg {
     background: url(./icons/sun-light.svg);
     background-size:cover;
+  }
+  footer {
+    background-color:#dce0e8;
+    color:#4c4f69;
   }
 }
