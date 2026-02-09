@@ -184,6 +184,10 @@ footer {
   padding:30px;
 }
 
+footer a{
+  color: #cba6f7;
+}
+
 html:has(#theme-toggle:checked) {
   background-color: #eff1f5;
 }
@@ -226,5 +230,9 @@ body:has(#theme-toggle:checked) {
   footer {
     background-color:#dce0e8;
     color:#4c4f69;
+  }
+
+  footer a {
+    color: #8839ef;
   }
 }
