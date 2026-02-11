@@ -188,6 +188,39 @@ footer a{
   color: #cba6f7;
 }
 
+.icon-link {
+  text-align:center;
+}
+
+.icon-link a{
+  font-family:DejaVu;
+  font-size: 100px;
+  text-decoration: none;
+  margin:50px;
+}
+
+.linkicon:hover {
+  color:#cba6f7;
+  text-decoration:underline;
+  text-decoration-color:#cba6f7;
+}
+
+.mail-icon {
+  color:#f38ba8;
+}
+
+.instagram-icon {
+  color:#fab387;
+}
+
+.twitter-icon {
+  color:#f5e0dc;
+}
+
+.facebook-icon {
+  color:#89b4fa;
+}
+
 html:has(#theme-toggle:checked) {
   background-color: #eff1f5;
 }
@@ -234,5 +267,26 @@ body:has(#theme-toggle:checked) {
 
   footer a {
     color: #8839ef;
+  }
+
+  .linkicon:hover {
+    color:#8839ef;
+    text-decoration-color:#8839ef;
+  }
+
+  .mail-icon {
+    color:#d20f39;
+  }
+
+  .instagram-icon {
+    color:#fe640b;
+  }
+
+  .twitter-icon {
+    color:#4c4f69;
+  }
+
+  .facebook-icon {
+    color:#1e66f5;
   }
 }
