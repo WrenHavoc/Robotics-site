@@ -222,6 +222,10 @@ footer a{
   color:#89b4fa;
 }
 
+.tor-icon {
+  color:#b4befe;
+}
+
 html:has(#theme-toggle:checked) {
   background-color: #eff1f5;
 }
