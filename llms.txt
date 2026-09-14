@@ -1,0 +1,65 @@
+llms.txt — 5933judgerobotics.com (JudgeMent Call Robotics, FRC Team 5933)
+
+Site Overview
+JudgeMent Call Robotics (FRC Team 5933) is a student-run FIRST Robotics Competition team from Judge Memorial Catholic High School (JMCHS) in Salt Lake City, UT. The team provides collaborative, competition-based STEM opportunities for high school students, welcoming those from nearby schools without FRC teams. Motto: "It's the hardest fun you will ever have."
+
+Core Values: Coopertition, Gracious Professionalism  
+Annual Budget Goal: $40,000 (funded entirely by donations/sponsorship)  
+Contact: jmrobotics@jmchs.org | Instagram: @jmrobotics.5933 | X: @JMRobotics_5933 | Facebook: JudgeMentCall5933  
+Onion Site: http://4a7eonia5fsfdajejtqiqxj6wp36pcgmbkn3tkphdjwhsazwqvxx7yid.onion  
+Site Author: Wren Burchett (programmed by, no copyright/trackers, catppuccin colorscheme, philosophy of simplicity)
+
+
+
+Key Pages
+
+/index.html — Home
+- Mission statement: collaborative STEM opportunity through FRC
+- FRC background: founded 1994 by Dean Kamen & Woodie Flowers, 8-week build season, district/regional competitions
+- Team philosophy: student-run with teacher/community/industry mentorship; students ultimately responsible
+
+/donate.html — Donate
+- Why donate: $40,000/year needed; breakdown: $6,400 airfare, $5,000/competition entry, $3,000 lodging, $600 transport, $340 food, $24,000+ parts/equipment
+- Donation Tiers:
+  - Bronze (<$500): sponsors page listing, team video mention, competition invite
+  - Silver ($500–$999): + small logo on sponsor banner & team shirt
+  - Gold ($1,000–$4,999): + medium logo on banner & shirt
+  - Platinum ($5,000–$9,999): + logo on competition robot, large logo on banner/shirt, VIP competition invite
+  - Diamond ($10,000+): + name/brand announced at competition, major presence in team video
+- Donate online: https://squareup.com/store/judge-memorial-catholic-high-school  
+- Mail: JudgeMent Call Robotics, Salt Lake City, UT 84102
+
+/contact.html — Contact
+- Email: jmrobotics@jmchs.org
+- Social: Instagram, X (Twitter), Facebook
+- Onion site link
+
+/sponsors.html — Sponsors
+- Sponsor recognition page
+
+/events.html — Events
+- Event photo gallery (image/event.jpg)
+- Competition/event schedule information
+
+/photos.html — Photos
+- Team photo gallery (banner uses image/team5933.jpg)
+
+/make-coffee — Coffee Making Interface
+- Brewing control endpoint for the team's coffee system
+- Returns brewing status and pot readiness
+
+
+
+Site Structure
+- Static HTML/CSS site (hand-coded)
+- Assets: /image/ (team photos, event photos, botwork), /icons/, /fonts/, /error/ (custom error pages)
+- No JavaScript framework, no trackers, no copyright claims
+- robots.txt blocks: /.git/, /fonts/, /icons/, /image/
+
+
+
+LLM-Relevant Notes
+- Privacy-first: No analytics, no cookies, no copyright — explicitly stated in footer on every page
+- Tor accessible: Onion service available
+- Student-authored: Built by a high school senior (Wren Burchett) with cybersecurity background
+- Simple by design: Minimal dependencies, hand-written HTML/CSS
