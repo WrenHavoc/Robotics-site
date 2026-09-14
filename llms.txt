@@ -1,4 +1,4 @@
-llms.txt — 5933judgerobotics.com (JudgeMent Call Robotics, FRC Team 5933)
+llms.txt - 5933judgerobotics.com (JudgeMent Call Robotics, FRC Team 5933)
 
 Site Overview
 JudgeMent Call Robotics (FRC Team 5933) is a student-run FIRST Robotics Competition team from Judge Memorial Catholic High School (JMCHS) in Salt Lake City, UT. The team provides collaborative, competition-based STEM opportunities for high school students, welcoming those from nearby schools without FRC teams. Motto: "It's the hardest fun you will ever have."
@@ -13,12 +13,12 @@ Site Author: Wren Burchett (programmed by, no copyright/trackers, catppuccin col
 
 Key Pages
 
-/index.html — Home
+/index.html - Home
 - Mission statement: collaborative STEM opportunity through FRC
 - FRC background: founded 1994 by Dean Kamen & Woodie Flowers, 8-week build season, district/regional competitions
 - Team philosophy: student-run with teacher/community/industry mentorship; students ultimately responsible
 
-/donate.html — Donate
+/donate.html - Donate
 - Why donate: $40,000/year needed; breakdown: $6,400 airfare, $5,000/competition entry, $3,000 lodging, $600 transport, $340 food, $24,000+ parts/equipment
 - Donation Tiers:
   - Bronze (<$500): sponsors page listing, team video mention, competition invite
@@ -29,22 +29,22 @@ Key Pages
 - Donate online: https://squareup.com/store/judge-memorial-catholic-high-school  
 - Mail: JudgeMent Call Robotics, Salt Lake City, UT 84102
 
-/contact.html — Contact
+/contact.html - Contact
 - Email: jmrobotics@jmchs.org
 - Social: Instagram, X (Twitter), Facebook
 - Onion site link
 
-/sponsors.html — Sponsors
+/sponsors.html - Sponsors
 - Sponsor recognition page
 
-/events.html — Events
+/events.html - Events
 - Event photo gallery (image/event.jpg)
 - Competition/event schedule information
 
-/photos.html — Photos
+/photos.html - Photos
 - Team photo gallery (banner uses image/team5933.jpg)
 
-/make-coffee — Coffee Making Interface
+/make-coffee - Coffee Making Interface
 - Brewing control endpoint for the team's coffee system
 - Returns brewing status and pot readiness
 
