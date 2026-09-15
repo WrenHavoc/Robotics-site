@@ -226,6 +226,15 @@ footer a{
   color:#b4befe;
 }
 
+.resources {
+  font-family:DejaVu;
+  color:#cdd6f4;
+}
+
+.resources a {
+  color:#cba6f7;
+}
+
 html:has(#theme-toggle:checked) {
   background-color: #eff1f5;
 }
