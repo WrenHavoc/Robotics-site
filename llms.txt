@@ -44,6 +44,11 @@ Key Pages
 /photos.html - Photos
 - Team photo gallery (banner uses image/team5933.jpg)
 
+/resources.html - Team Resources
+- Resource library for team members and community
+- Items: Team Google Drive, Team Tenets, Field Trip Release Form, and Team Calendar
+- Each resource card shows type badge, description, and action buttons (view/download)
+
 /make-coffee - Coffee Making Interface
 - Brewing control endpoint for the team's coffee system
 - Returns brewing status and pot readiness
